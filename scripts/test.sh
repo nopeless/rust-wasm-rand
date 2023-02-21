@@ -1,0 +1,1 @@
+cd javascript && yarn test
